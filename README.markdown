@@ -17,5 +17,5 @@ skriva perfekt kod redan från första början, men måste väl inse att jag än
 mycket att lära. Jag är dock enveten och envis och håller på tills jag lär mig
 åtminstånde att skriva bra kod. Är inte så bra på design.
 
-Testrad
+
 
