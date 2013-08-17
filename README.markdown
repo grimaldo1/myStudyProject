@@ -15,7 +15,7 @@ synpunkter och hjälp. I detta första project vill jag lära mig:
 Jag är oerhört krävande när det gäller mig själv. Det innebär att jag ju helst vill
 skriva perfekt kod redan från första början, men måste väl inse att jag ännu har 
 mycket att lära. Jag är dock enveten och envis och håller på tills jag lär mig
-åtminstånde att skriva bra kod. Är inte så bra på design.
+åtminstone att skriva bra kod. Är inte så bra på design.
 
 
 
