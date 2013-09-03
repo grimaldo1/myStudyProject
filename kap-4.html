@@ -1,21 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="sv">
 <head>
 	<meta charset="utf-8" />
 	<title>Några stycken + CSS</title>
-	<style>
-		body {
+	<style type="text/css">
+		html {
 				background-color : silver;
+		}
+		body {
+				margin : auto;
+				width : 600px;
+				height : 600px;
+				background-color : azure;
 		}
 		p {
 				font-family : sans-serif;
+				text-decoration : none;
+				border : 2px solid;
+				padding : 5px;
+				border-radius : 20px;
+			}
+		.bar {
+				font-size : xx-large;
+				color : blue;
 		}
 		.foo {
 				font-size : large;
 		}
-		.bar {
-				font-size : small;
-				color : darkred;
+		.nice {
+				font-size : x-large;
+				color : #9955F0;
 		}
 		</style>
 </head>
@@ -28,6 +42,9 @@
 	</p>
 	<p id="c">
 		Lorem ipsum dolor sit amet
+	</p>
+	<p class="nice">
+		Lorem ipsum <span class="foo">dolor</span> sit amet
 	</p>
 </body>
 </html>
